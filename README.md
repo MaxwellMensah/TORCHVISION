@@ -1,1 +1,3 @@
-[![View in nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/url/github.com/MaxwellMensah/TORCHVISION/raw/pytorch_torchvision/plot_transforms_illustrations_egs.ipynb)
+[![View in nbviewer](https://img.shields.io/badge/view%20in-nbviewer-orange?logo=jupyter)](https://nbviewer.org/url/github.com/MaxwellMensah/TORCHVISION/raw/pytorch_torchvision/transforms_illustrations.ipynb)
+
+

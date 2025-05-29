@@ -2,6 +2,6 @@
 
 
 
-![output image](github.com/MaxwellMensah/TORCHVISION/blob/pytorch_torchvision/notebook_images/img_0.jpg)
+![output image](github.com/MaxwellMensah/TORCHVISION/raw/pytorch_torchvision/notebook_images/img_0.jpg)
 
 
